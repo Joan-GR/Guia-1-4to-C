@@ -142,9 +142,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nombreUsuario: Etbol
-  edadUsuario: 0
-  estaturaUsuario: 0
-  esDonante: 0
+  edadUsuario: 54
+  estaturaUsuario: 1.22
+  esDonante: 1
 --- !u!4 &477360630
 Transform:
   m_ObjectHideFlags: 0
